@@ -1,5 +1,5 @@
 
-# Acessar em PDF: [MLCardiovascular Disease.pdf](https://github.com/Gustavodpo/ML.RFCardiovascular-/files/11264671/MLCardiovascular.Disease.pdf)
+# Ver em PDF: [MLCardiovascular Disease.pdf](https://github.com/Gustavodpo/ML.RFCardiovascular-/files/11264671/MLCardiovascular.Disease.pdf)
 
 Analisando a precisão com Matriz de confusão(predictions)
 ![image](https://user-images.githubusercontent.com/87186097/232858699-aaeaf869-db86-4644-9835-6e5f77a61662.png)
